@@ -1,0 +1,25 @@
+# ninja log v5
+2	100	6911762625545467	CMakeFiles/ACMatrix.dir/main.c.obj	7ea79bb3f832bd77
+21	160	6911761696828312	CMakeFiles/ACMatrix.dir/Traverse.c.obj	80d2766266be85a6
+8	132	6911761696541994	CMakeFiles/ACMatrix.dir/FindLow.c.obj	8dc6c02674d7aeba
+1	138	6912291849100699	build.ninja	fc03489ddc2eaa3a
+2	68	6911763528864309	CMakeFiles/ACMatrix.dir/Judge.c.obj	7fdc85116afe44d2
+17	157	6911761696778468	CMakeFiles/ACMatrix.dir/Print.c.obj	3d038b015265cee2
+69	151	6911763529641579	ACMatrix.exe	1adf1eb945f7b256
+13	136	6911761696612396	CMakeFiles/ACMatrix.dir/Create.c.obj	e6a59f2828a0e14b
+26	163	6911761696881873	CMakeFiles/ACMatrix.dir/calculate.c.obj	f119230a64109272
+30	165	6911761696924787	CMakeFiles/ACMatrix.dir/DeleteArc.c.obj	c6f8e2c1f4099c34
+74	196	6911761697246549	CMakeFiles/ACMatrix.dir/Menu.c.obj	78d5459f006b4ede
+43	187	6911761697149472	CMakeFiles/ACMatrix.dir/InsertArc.c.obj	3b4bc0b02449771a
+6	121	6912297469515470	CMakeFiles/ACMatrix.dir/Create.c.obj	e6a59f2828a0e14b
+9	123	6912297469525454	CMakeFiles/ACMatrix.dir/FindLow.c.obj	8dc6c02674d7aeba
+38	128	6912297469577529	CMakeFiles/ACMatrix.dir/Destroy.c.obj	4289191bacd697bc
+30	130	6912297469602809	CMakeFiles/ACMatrix.dir/InsertArc.c.obj	3b4bc0b02449771a
+26	130	6912297469602809	CMakeFiles/ACMatrix.dir/calculate.c.obj	f119230a64109272
+12	131	6912297469602809	CMakeFiles/ACMatrix.dir/Print.c.obj	3d038b015265cee2
+17	132	6912297469602809	CMakeFiles/ACMatrix.dir/Traverse.c.obj	80d2766266be85a6
+2	132	6912297469602809	CMakeFiles/ACMatrix.dir/main.c.obj	7ea79bb3f832bd77
+21	133	6912297469633897	CMakeFiles/ACMatrix.dir/DeleteArc.c.obj	c6f8e2c1f4099c34
+35	133	6912297469633897	CMakeFiles/ACMatrix.dir/Judge.c.obj	7fdc85116afe44d2
+42	135	6912297469673763	CMakeFiles/ACMatrix.dir/Menu.c.obj	78d5459f006b4ede
+136	224	6912297470521499	ACMatrix.exe	29b831d42e8aa2c5
