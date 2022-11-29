@@ -2,11 +2,13 @@
 // Created by 86153 on 2022/11/27.
 //
 #include "Type.h"
-int Calculate(Table *T) {
+int Calculate(Table *T)
+{
     char name;
     int input = 1;
     int temp;
-    while (input) {
+    while (input)
+    {
         int outcount = 0, incount = 0;
         ArcNode *p = NULL;
         ArcNode *q = NULL;
@@ -22,7 +24,8 @@ int Calculate(Table *T) {
             goto case1;
         }
         p = T->head[temp].firstarc;
-        while (p != NULL) {
+        while (p != NULL)
+        {
             outcount++;
             p = p->nextarc;
         }
@@ -34,7 +37,8 @@ int Calculate(Table *T) {
                 continue;
             //从每一行查询与A有关系的入度边
             q = T->head[m].firstarc;
-            while (q != NULL) {
+            while (q != NULL)
+            {
                 //每个顶点的每条入度边都不相同
                 //所以如果匹配到一条就不用再往下循环了
                 if (q->dataNumber == temp) {
@@ -44,9 +48,9 @@ int Calculate(Table *T) {
                 q = q->nextarc;
             }
             printf("%c的出度是%d,入度是%d,总度是%d\n", name, outcount, incount, outcount + incount);
-            printf("请问是否还需要继续查询<0.否 1.是>");
-            scanf_s("%d", &input);
         }
+        printf("请问是否还需要继续查询<0.否 1.是>");
+        scanf_s("%d", &input);
     }
     return OK;
 }
