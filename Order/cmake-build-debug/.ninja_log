@@ -1,0 +1,22 @@
+# ninja log v5
+2	64	6921218437064656	CMakeFiles/Order.dir/main.c.obj	3b119c28433b1000
+70	143	6921224705865908	Order.exe	d0e3ec0003f27c16
+30	110	6921216450442415	CMakeFiles/Order.dir/BubbleOrder.c.obj	7acd6fb8a91eb907
+2	57	6919430743637572	CMakeFiles/Order.dir/InsertOrder.c.obj	806a8790ee58023b
+2	70	6921224705165976	CMakeFiles/Order.dir/ChoiceOrder.c.obj	9fa4b2cba1f2f5f7
+1	76	6921241900136908	CMakeFiles/Order.dir/main.c.obj	3b119c28433b1000
+6	79	6921241900187906	CMakeFiles/Order.dir/BubbleOrder.c.obj	7acd6fb8a91eb907
+11	83	6921241900233747	CMakeFiles/Order.dir/EasyOrder.c.obj	e3cda8cf2c80a7d3
+14	88	6921241900284895	CMakeFiles/Order.dir/ChoiceOrder.c.obj	9fa4b2cba1f2f5f7
+88	163	6921241901006174	Order.exe	42c84ee95cb468a6
+2	63	6921242325317889	CMakeFiles/Order.dir/main.c.obj	3b119c28433b1000
+6	64	6921242325317889	CMakeFiles/Order.dir/EasyOrder.c.obj	e3cda8cf2c80a7d3
+64	138	6921242326019027	Order.exe	42c84ee95cb468a6
+1	67	6921246158497939	CMakeFiles/Order.dir/main.c.obj	3b119c28433b1000
+68	152	6921246159302612	Order.exe	42c84ee95cb468a6
+2	66	6921248782093190	CMakeFiles/Order.dir/EasyOrder.c.obj	e3cda8cf2c80a7d3
+67	142	6921248782812140	Order.exe	42c84ee95cb468a6
+2	63	6921253431815556	CMakeFiles/Order.dir/EasyOrder.c.obj	e3cda8cf2c80a7d3
+63	139	6921253432550420	Order.exe	42c84ee95cb468a6
+1	64	6921255148850114	CMakeFiles/Order.dir/EasyOrder.c.obj	e3cda8cf2c80a7d3
+64	144	6921255149609482	Order.exe	42c84ee95cb468a6
