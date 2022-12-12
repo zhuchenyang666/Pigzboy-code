@@ -16,7 +16,13 @@ int main() {
     int n[]={6,7,9,10,11};
     //Combine(m,n,sizeof m/sizeof m[0],sizeof n/sizeof n[0]);
     int aaa[11]={100,7,6,5,4,1,2,3,4,5,10,};
-    EasyOrder(aaa,11);
+    //简单选择排序
+    //EasyOrder(aaa,11);
+    //快速排序
+    QuickOrder(aaa,0,sizeof(aaa)/sizeof aaa[0]);
+    printf("快速");
+    Out(aaa,sizeof(aaa)/sizeof aaa[0]);
+
     return 0;
 }
 void Out(int *data,int n)

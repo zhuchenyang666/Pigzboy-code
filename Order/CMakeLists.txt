@@ -3,4 +3,4 @@ project(Order C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Order main.c BubbleOrder.c Type.h InsertOrder.c ChoiceOrder.c EasyOrder.c)
+add_executable(Order main.c BubbleOrder.c Type.h InsertOrder.c ChoiceOrder.c EasyOrder.c SquickOrder.c)

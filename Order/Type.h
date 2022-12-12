@@ -18,4 +18,7 @@ void InsertOrder(int *a,int n);
 void BinaryInsertOrder(int *a,int n);
 void Combine(int *a,int *b,int aSize,int bSize);
 void EasyOrder(int *a,int n);
+void Change(int *a,int *b);
+int Location(int *a,int low,int high);
+void QuickOrder(int *a,int low,int high);
 #endif //ORDER_TYPE_H

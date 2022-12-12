@@ -79,6 +79,12 @@ build CMakeFiles/Order.dir/EasyOrder.c.obj: C_COMPILER__Order_Debug C$:/software
   OBJECT_DIR = CMakeFiles\Order.dir
   OBJECT_FILE_DIR = CMakeFiles\Order.dir
 
+build CMakeFiles/Order.dir/SquickOrder.c.obj: C_COMPILER__Order_Debug C$:/software/Git/Git/code/Order/SquickOrder.c || cmake_object_order_depends_target_Order
+  DEP_FILE = CMakeFiles\Order.dir\SquickOrder.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\Order.dir
+  OBJECT_FILE_DIR = CMakeFiles\Order.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Order
@@ -87,7 +93,7 @@ build CMakeFiles/Order.dir/EasyOrder.c.obj: C_COMPILER__Order_Debug C$:/software
 #############################################
 # Link the executable Order.exe
 
-build Order.exe: C_EXECUTABLE_LINKER__Order_Debug CMakeFiles/Order.dir/main.c.obj CMakeFiles/Order.dir/BubbleOrder.c.obj CMakeFiles/Order.dir/InsertOrder.c.obj CMakeFiles/Order.dir/ChoiceOrder.c.obj CMakeFiles/Order.dir/EasyOrder.c.obj
+build Order.exe: C_EXECUTABLE_LINKER__Order_Debug CMakeFiles/Order.dir/main.c.obj CMakeFiles/Order.dir/BubbleOrder.c.obj CMakeFiles/Order.dir/InsertOrder.c.obj CMakeFiles/Order.dir/ChoiceOrder.c.obj CMakeFiles/Order.dir/EasyOrder.c.obj CMakeFiles/Order.dir/SquickOrder.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Order.dir

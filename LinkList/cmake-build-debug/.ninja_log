@@ -1,0 +1,15 @@
+# ninja log v5
+22	92	6924537443079260	CMakeFiles/LinkList.dir/main.c.obj	ae1e8f4cd7022d7d
+93	175	6924537443847945	LinkList.exe	232c0fa20f8c3e7b
+90	233	6925362093084710	CMakeFiles/LinkList.dir/FindMinimal.c.obj	c36c7bf6f7cd66e3
+85	237	6925362093109160	CMakeFiles/LinkList.dir/Delete.c.obj	cc91a87549d971e8
+2	238	6925362093134636	CMakeFiles/LinkList.dir/main.c.obj	ae1e8f4cd7022d7d
+238	410	6925362094795378	LinkList.exe	cd3f69c67819d37e
+2	66	6925365615936790	CMakeFiles/LinkList.dir/FindMinimal.c.obj	c36c7bf6f7cd66e3
+66	146	6925365616697039	LinkList.exe	cd3f69c67819d37e
+2	93	6925378935898534	CMakeFiles/LinkList.dir/FindMinimal.c.obj	c36c7bf6f7cd66e3
+94	178	6925378936710531	LinkList.exe	cd3f69c67819d37e
+1	64	6925380674108287	CMakeFiles/LinkList.dir/FindMinimal.c.obj	c36c7bf6f7cd66e3
+64	147	6925380674893908	LinkList.exe	cd3f69c67819d37e
+2	65	6925386449965782	CMakeFiles/LinkList.dir/FindMinimal.c.obj	c36c7bf6f7cd66e3
+66	150	6925386450774036	LinkList.exe	cd3f69c67819d37e
